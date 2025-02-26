@@ -23,7 +23,7 @@ El metodo cargo() retorna:
 ```
  return "Desarrollador"
 ```
- Asi como este ejemplo esta las demas clases Diseñador y Gerente. Lo que hacemos aqui es utilizar la clase base "Empleado" como un patron que nos permite sacar diferentes diseños a partir de el
+ Asi como este ejemplo esta las demas clases Diseñador y Gerente. Lo que hacemos aqui es utilizar la clase base "Empleado" como un patron que nos permite sacar diferentes diseños a partir de él
 ## Ejecutando las pruebas ⚙️
 En archivo "main.py" importamos nuestras tres clases Desarrollador, Diseñador, Gerente para hacer uso de ellas y ver como se ejecutan:
 ```
